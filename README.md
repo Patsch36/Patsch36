@@ -16,6 +16,12 @@
 - Python
 - Typescript
 
+⌨️ Lesser used programming languages:
+- C
+- C#
+- Java
+- Swift
+
 🔧 My focus lies in application development, designing and optimizing databases, as well as low-level programming. I enjoy solving complex problems and developing efficient solutions that have the potential to change the world around us.
 
 <!--## Projects
