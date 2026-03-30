@@ -1,66 +1,109 @@
-# Patrick Scheich
+# 👋 Hi, I'm Patrick Scheich
 
-👨‍💻 Software Engineer | 📚 Information Technology Student | 🏢 Murrelektronik GmbH
+### 👨‍💻 Software & Data Engineer → Software Architect
 
-👋 Hello! I'm Patrick, a passionate software engineer specializing in application development, databases, and embedded systems. Welcome to my GitHub profile, where I share my projects and experiences.
+🎓 M.Sc. Applied Informatics | 🏢 Yacoub GmbH
 
-## About Me
+---
 
-🎓 Currently, I'm pursuing a degree in Information Technology, expanding my knowledge in the fascinating world of technology. My time at the university has taught me the fundamentals and helped me develop my passion for programming and systems.
+## 🚀 About Me
 
-💼 I am currently working at Murrelektronik GmbH, an innovative company in the electronics industry. I am part of a talented team working on exciting projects and constantly seeking new ways to improve our products.
+I'm a software and data engineer with a strong focus on **clean architecture**, **intelligent systems**, and building solutions that actually run in production.
 
-⌨️ My main programming languages:
+I’m on a deliberate path toward **Software Architecture** — driven by the belief that **great systems are designed, not just built**.
 
-- C++
-- Python
-- Typescript
+---
 
-⌨️ Lesser used programming languages:
-- C
-- C#
-- Java
-- Swift
+### 🎓 Background
 
-🔧 My focus lies in application development, designing and optimizing databases, as well as low-level programming. I enjoy solving complex problems and developing efficient solutions that have the potential to change the world around us.
+* M.Sc. in **Applied Informatics (Data Science)**
+* Hochschule Esslingen
+* Focus on distributed systems, machine learning, and software architecture
 
-<!--## Projects
+---
 
-📂 Here are some of the interesting projects I have worked on:
+### 💼 Current Role
 
-1. 🚀 [Project Name 1](Project Link): A Python application for automated data analysis.
-   
-   ![Project 1](Image URL)
+At **Yacoub GmbH**, I work on:
 
-2. 🌐 [Project Name 2](Project Link): A web-based C++ application for IoT controls.
+* Data Engineering pipelines
+* IIoT solutions
+* Safety-critical systems
 
-   ![Project 2](Image URL)
+Bridging the gap between:
 
-3. 📊 [Project Name 3](Project Link): A TypeScript application for real-time data visualization.
+> 🔧 Robust backend engineering
+> 🤖 Modern AI-driven pipelines
 
-   ![Project 3](Image URL)-->
+---
 
-## Contact
+### 🧠 Current Focus
 
-📫 Want to learn more about my work or have any questions about my projects? Feel free to contact me!
+* Software Architecture
+* Agentic AI & RAG Systems
+* Compile-time correctness (Scala 3)
 
-- Email: [scheichpatrick@gmail.com](mailto:scheichpatrick@gmail.com)
-- LinkedIn: [Patrick Scheich](https://www.linkedin.com/in/patrick-scheich-061018188/)
+---
 
-🌟 Thank you for visiting my GitHub profile! I look forward to connecting with you and working together on exciting projects.
+### 🎓 Beyond Coding
 
+* Mentoring dual-study students
+* Tutoring mathematics
+
+> *"If you can explain it clearly, you truly understand it."*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+`Python` • `Java` • `Scala` • `Rust` • `TypeScript` • `C++`
+
+### 🤖 AI / ML
+
+`PyTorch` • `LangChain` • `RAG` • `LLM Pipelines`
+
+### ☁️ Cloud & Infrastructure
+
+`Azure` • `AWS` • `GCP`
+`Kubernetes` • `Docker` • `Kafka`
+
+### 📊 Data
+
+`PostgreSQL` • `Spark` • `PySpark`
+
+### ⚠️ Safety & Industry
+
+`IEC 61508` • `IIoT`
+
+---
+
+## 📂 Projects *(coming soon)*
 
 <!--
-**Patsch36/Patsch36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can showcase projects here like this:
 
-Here are some ideas to get you started:
+### 🚀 Project Name
+Short description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Tech:** Python, FastAPI, etc.  
+[🔗 View Project](link)
+
 -->
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [scheichpatrick@gmail.com](mailto:scheichpatrick@gmail.com)
+* 💼 LinkedIn: [Patrick Scheich](https://www.linkedin.com/in/patrick-scheich-061018188/)
+
+---
+
+## 🌟 Final Note
+
+Thanks for stopping by!
+I’m always open to interesting discussions, collaborations, and building impactful systems.
+
+---
