@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Scheich
 
-### 👨‍💻 Software & Data Engineer → Software Architect
+### 👨‍💻 Software & Data Engineer focusing on Software Architecture
 
 🎓 M.Sc. Applied Informatics | 🏢 Yacoub GmbH
 
